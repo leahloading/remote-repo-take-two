@@ -8,4 +8,6 @@ But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 
 change to README.md
 
-# new section 
+# personal bio
+
+I'm leah and i'm learning to code.
